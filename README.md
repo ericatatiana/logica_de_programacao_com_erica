@@ -1,169 +1,191 @@
-# Projeto C++ - Hello World
+#  Lógica de Programação com Erica — Visualg & Algoritmos
 
-![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue?style=for-the-badge\&logo=cplusplus)
-![Beginner Friendly](https://img.shields.io/badge/Level-Beginner-green?style=for-the-badge)
+Aprenda lógica de programação do zero utilizando Visualg, pseudocódigo e exercícios práticos.
 
----
-
-> 💡 **Nota:** Este README foi criado para ajudar iniciantes a dar os primeiros passos em C++, explicando de forma simples como criar e executar o clássico "Hello World".
+> “Não adianta aprender Python, C++ ou Java sem saber lógica de programação.”
 
 ---
 
-##  Sobre o Projeto
+#  Sobre o Projeto
 
-Este é o primeiro programa que qualquer programador aprende em uma nova linguagem.
+Este repositório foi criado para ajudar iniciantes a aprender:
 
-🎯 Objetivo:
+- ✅ Lógica de Programação
+- ✅ Algoritmos
+- ✅ Pensamento Computacional
+- ✅ Estruturas Condicionais
+- ✅ Estruturas de Repetição
+- ✅ Vetores e Matrizes
+- ✅ Funções e Procedimentos
+- ✅ Resolução de Problemas
 
-* Entender a estrutura básica de um programa em C++
-* Aprender a compilar e executar código
-
----
-
-## 💻 Código
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout << "Hello, World!" << endl;
-    return 0;
-}
-```
+Tudo explicado de forma simples, prática e organizada.
 
 ---
 
-##  Explicação do Código
+#  Tecnologias Utilizadas
 
-###  1. Biblioteca
-
-```cpp
-#include <iostream>
-```
-
-Permite usar entrada e saída (ex: mostrar texto no ecrã).
+-  Visualg
+-  Pseudocódigo
+-  Exercícios práticos
+-  Desafios de lógica
 
 ---
 
-###  2. Namespace
+#  Instalação do Visualg
 
-```cpp
-using namespace std;
-```
+Download do Visualg:
 
-Evita escrever `std::cout` sempre.
+https://visualg3.com.br/baixar-o-visualg3-0/
 
 ---
 
-###  3. Função principal
-
-```cpp
-int main()
-```
-
-É o ponto de entrada do programa.
-
----
-
-###  4. Saída de dados
-
-```cpp
-cout << "Hello, World!" << endl;
-```
-
-* `cout` → imprime no ecrã
-* `endl` → quebra de linha
-
----
-
-###  5. Final do programa
-
-```cpp
-return 0;
-```
-
-Indica que o programa terminou com sucesso.
-
----
-
-## ⚙️ Como instalar C++
-
-###  Windows
-
-1. Instalar o compilador (MinGW)
-2. Adicionar ao PATH
-3. Verificar no terminal:
+#  Estrutura das Aulas
 
 ```bash
-g++ --version
+ logica_de_programacao_com_erica
+ ┣  dia-1
+ ┣  dia-2
+ ┣  dia-3
+ ┣  desafios
+ ┣  exercicios
+ ┗  README.md
 ```
 
 ---
 
-##  Usando VS Code
+#  Conteúdo das Aulas
 
-1. Instalar o VS Code
-2. Instalar extensão **C/C++**
-3. Criar ficheiro:
+##  Fundamentos
+- O que é algoritmo
+- O que é lógica de programação
+- Entrada e saída de dados
+- Variáveis
+- Tipos de dados
 
-```
-hello.cpp
+##  Operadores
+- Matemáticos
+- Relacionais
+- Lógicos
+
+##  Estruturas Condicionais
+- `se`
+- `senao`
+- `escolha`
+
+##  Estruturas de Repetição
+- `para`
+- `enquanto`
+- `repita`
+
+##  Estruturas Avançadas
+- Vetores
+- Matrizes
+- Funções
+- Procedimentos
+
+---
+
+#  Exemplo de Código
+
+```visualg
+algoritmo "media"
+
+var
+n1, n2, media: real
+
+inicio
+
+escreva("Digite a primeira nota: ")
+leia(n1)
+
+escreva("Digite a segunda nota: ")
+leia(n2)
+
+media <- (n1 + n2) / 2
+
+escreval("Média final: ", media)
+
+fimalgoritmo
 ```
 
 ---
 
-## 🚀 Como executar
+#  Objetivo
 
-### 1. Compilar
+O objetivo é fazer com que qualquer pessoa consiga:
+
+- Pensar como programador(a)
+- Resolver problemas
+- Criar algoritmos
+- Construir uma base sólida para aprender:
+  - Python
+  - C++
+  - Java
+  - C#
+  - JavaScript
+  - PHP
+  - e muito mais
+
+---
+
+#  Público-Alvo
+
+-  Iniciantes
+-  Estudantes
+-  Pessoas sem experiência
+-  Quem quer aprender programação da forma correta
+
+---
+
+# 🌟 Metodologia
+
+As aulas serão organizadas por dias e níveis:
 
 ```bash
-g++ hello.cpp -o hello
+dia-1 → Introdução
+dia-2 → Variáveis
+dia-3 → Condições
+dia-4 → Repetições
+...
 ```
 
-### 2. Executar
-
-```bash
-./hello
-```
-
----
-
-##  Resultado esperado
-
-```bash
-Hello, World!
-```
+Cada aula terá:
+-  Explicação
+-  Código
+-  Exercícios
+-  Desafios
 
 ---
 
-##  Objetivo Educacional
+# 🤝 Contribuições
 
-Este projeto ajuda iniciantes a:
+Contribuições são bem-vindas!
 
-* Entender a base do C++
-* Dar o primeiro passo na programação
-* Preparar-se para conceitos mais avançados
-
----
-
-##  Próximos passos
-
-Depois deste, podes aprender:
-
-* Variáveis
-* Condições (if)
-* Ciclos (for, while)
+1. Faça um Fork
+2. Crie uma Branch
+3. Commit suas alterações
+4. Abra um Pull Request
 
 ---
 
-## 👩🏽‍💻 Autora
+#  Autora
 
-**Erica Tatiana**
-Desenvolvedora em evolução
+## Erica Tatiana
+
+ Software Development Student  
+ Developer in evolution  
+ Programming Instructor
+
+GitHub:
+https://github.com/ericatatiana
 
 ---
 
-## ⭐ Apoio
+# ⭐ Apoie o Projeto
 
-Se este projeto te ajudou, deixa uma ⭐ no repositório!
+Se este projeto te ajudar, deixa uma ⭐ no repositório.
+
+---
+
+# 🧩 “Antes da linguagem, vem a lógica.”
