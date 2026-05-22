@@ -138,7 +138,7 @@ O objetivo é fazer com que qualquer pessoa consiga:
 
 ---
 
-# 🌟 Metodologia
+#  Metodologia
 
 As aulas serão organizadas por dias e níveis:
 
@@ -158,7 +158,7 @@ Cada aula terá:
 
 ---
 
-# 🤝 Contribuições
+#  Contribuições
 
 Contribuições são bem-vindas!
 
