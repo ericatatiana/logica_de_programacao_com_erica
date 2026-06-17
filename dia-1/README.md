@@ -1,4 +1,4 @@
-#  Dia 1 — Introdução à Lógica de Programação
+#  Dia 1 - Introdução à Lógica de Programação
 
 Bem-vindo(a) ao primeiro dia de estudos 
 
