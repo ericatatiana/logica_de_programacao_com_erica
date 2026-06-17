@@ -1,4 +1,4 @@
-#  Lógica de Programação com Erica — Visualg & Algoritmos
+#  Lógica de Programação com Erica - Visualg & Algoritmos
 
 Aprenda lógica de programação do zero utilizando Visualg, pseudocódigo e exercícios práticos.
 
