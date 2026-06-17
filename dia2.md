@@ -1,4 +1,4 @@
-#  Dia 2 — Variáveis e Tipos de Dados (Visualg)
+#  Dia 2 - Variáveis e Tipos de Dados (Visualg)
 
 Hoje vamos aprender um dos pilares da programação:
  **Variáveis**
@@ -11,7 +11,7 @@ Uma variável é um espaço na memória do computador que guarda informações.
 
  Exemplo simples:
 - nome = "Erica"
-- idade = 20
+- idade = 200
 
 É como uma caixa que guarda dados.
 
